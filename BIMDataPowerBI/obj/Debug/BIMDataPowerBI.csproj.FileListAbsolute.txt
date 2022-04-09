@@ -1,0 +1,11 @@
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\obj\Debug\BIMDataPowerBI.csproj.AssemblyReference.cache
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\obj\Debug\BIMDataPowerBI.csproj.CoreCompileInputs.cache
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\BIMDataPowerBI.dll
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\BIMDataPowerBI.pdb
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\obj\Debug\BIMDataPowerBI.dll
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\obj\Debug\BIMDataPowerBI.pdb
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\BIMDataPowerBI.manifest.addin
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\icon-dialog_32x32.png
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\icon-get_32x32.png
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\icon-send_32x32.png
+F:\Ricardo Salas\Arquitectura\Programacion\Revit Scripts\net\BIMDataPowerBI\BIMDataPowerBI\bin\Debug\icon-web_32x32.png
